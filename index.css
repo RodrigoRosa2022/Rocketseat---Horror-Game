@@ -57,3 +57,10 @@ a:hover,
     background-color: #ffc700;
     opacity: 1;
 }
+
+footer {
+    color: #EBF1FB;
+    position: absolute;
+    bottom: 0;
+    height: 30px;
+    }
